@@ -1,0 +1,14 @@
+# maven
+target/
+dependency-reduced-pom.xml
+
+# Mac filesystem dust
+.DS_Store/
+
+# intellij
+*.iml
+*.ipr
+*.iws
+.idea/
+
+tPunish.iml

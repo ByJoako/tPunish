@@ -1,0 +1,8 @@
+name: tPunish
+main: net.helydev.com.Punish
+version: 2.0-SNAPSHOT
+author: ByJoako
+commands:
+  punish:
+  punishreload:
+  punishedit:

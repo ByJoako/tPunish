@@ -1,0 +1,10 @@
+Default:
+  items:
+    23:
+      displayname: "&b&lDefault item"
+      material: 340
+      data: 0
+      enchantment: false
+      command: "/default %target%"
+      lore:
+        - ""

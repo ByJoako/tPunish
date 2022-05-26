@@ -1,0 +1,27 @@
+No_permission: "&cNo permission"
+
+menu:
+  principal:
+    title: "&6&ltPunish GUI"
+    size: 3
+    fill:
+      enabled: true
+      data: 7
+items:
+  Default:
+    item:
+      material: 35
+      data: 14
+      displayname: "&b&lDefault"
+      slot: 14
+      enchantment: true
+      lore:
+        - "&7-----------------------------"
+        - "&7Click to open menu Default"
+        - "&7-----------------------------"
+    menu:
+      title: "&b&lDefault &7Menu"
+      size: 5
+      fill:
+        enabled: true
+        data: 7
